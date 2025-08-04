@@ -23,7 +23,7 @@ Este proyecto, escrito en Python 3.12.6, emula las funcionalidades principales d
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/JoshuaVal-jd/Torneos-de-Futbol.git
+   git clone https://github.com/JoshuaVal-jd/Torneo-de-Futbol.git
    cd torneos-de-bola
    ```
 2. (Opcional) Crear y activar un entorno virtual:
